@@ -14,10 +14,10 @@
 
 - https://www.conventionalcommits.org/en/v1.0.0/
 - 커밋메시지 형식!
-  1. "feat(chapter[number]): [기타 내용]" <--
+  1. "feat(chapter[number]): [기타 내용]"
   2. "feat(chapter[number]): rename [filename]"
   3. "feat(chapter[number]): remove [filename]"
-  4. "feat(chapter[number]): update [something]" Modify : 문서 수정 <br>
+  4. "feat(chapter[number]): update [something]" <-- 문서 수정 <br>
      ex) 파일 이름 수정, 문서 수정을 한 경우
      <br> : Rename 파일 이름 & Modify 문서이름
 
