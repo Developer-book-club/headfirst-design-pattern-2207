@@ -91,6 +91,11 @@ notify() {
     - ex3) 자체 구현한다면 Websocket을 이용하여 진행할 수 있다.
     - ex4) Graphql - https://www.prisma.io/blog/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427
 
+## Observer 패턴과 Publisher/Subscriber(Pub-Sub) 패턴의 차이점
+
+- https://jistol.github.io/software%20engineering/2018/04/11/observer-pubsub-pattern/
+
 ## Reference
 
 - https://www.patterns.dev/posts/observer-pattern/
+- https://jistol.github.io/software%20engineering/2018/04/11/observer-pubsub-pattern/
