@@ -15,7 +15,7 @@
 
 ## Class Diagram
 
-![Singleton의 클래스 다이어그램](/headfirst-design-pattern-2207/Chapter05/손승현/img/singleton_pattern.jpg)
+![Singleton의 클래스 다이어그램](./img/singleton_pattern.jpg)
 
 - 클래스 변수에 Singleton의 인스턴스가(**1개**) 저장된다.
 - ```getInstance()```가 정적 메소드이기 때문에, ```Singleton.getInstance()```로 언제든지 호출할 수 있다. 
