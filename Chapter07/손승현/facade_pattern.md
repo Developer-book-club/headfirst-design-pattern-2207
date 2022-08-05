@@ -58,7 +58,7 @@ public float getTemp(){
 
 ## Class Diagram
 
-![facade pattern의 class diagram](./facade_pattern.jpg)
+![facade pattern의 class diagram](./img/facade_pattern.jpg)
 
 ## Sample Code
 

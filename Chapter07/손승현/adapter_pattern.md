@@ -17,7 +17,7 @@
 
 ## Class Diagram (객체 Adapter)
 
-![adapter pattern의 class diagram](./adapter_pattern.jpg)
+![adapter pattern의 class diagram](./img/adapter_pattern.jpg)
 
 - **Client**
     - Target Interface에 맞게 구현
