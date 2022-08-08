@@ -200,4 +200,5 @@ private class Singleton{
 ## References
 
 - [Initialization on demand ```holder``` idiom](https://jobjava00.github.io/language/java/basic/singleton/)
+
 - [Lazy Holder Singleton Pattern](https://dev-coco.tistory.com/109)
