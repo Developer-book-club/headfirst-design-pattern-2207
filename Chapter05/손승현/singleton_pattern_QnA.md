@@ -5,7 +5,7 @@
 
 ```java
 public class GFG{
-    // getInstance()로만 접근가능함
+    // getInstance()로만 접근가능
     private static GFG instance;
     private GFG(){
         // private 생성자
