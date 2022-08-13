@@ -21,7 +21,7 @@
 
 ## Class Diagram
 
-![클래스 다이어그램](./state_pattern.jpg)
+![클래스 다이어그램](./img/state_pattern.jpg)
 
 - **Context**
     - <u>상태를 관리하는 일</u>을 한다.
