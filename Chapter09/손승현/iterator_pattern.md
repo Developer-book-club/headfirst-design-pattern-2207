@@ -174,8 +174,4 @@ public class Waitress{
 - ```iterator()```,```forEach()```,```spliterator()```
     - ```iterator()```: ```Iterator``` 인터페이스를 구현하고, 반복자를 리턴한다.
     - ```forEach()```: 컬렉션에 있는 항목을 대상으로 반복 작업을 수행하는 방법을 제공한다.
-<<<<<<< HEAD
     - ```spliterator()```: 컬렉션을 대상으로 반복 작업을 할 때 더 발전된 기능을 제공한다.
-=======
-    - ```spliterator()```: 컬렉션을 대상으로 반복 작업을 할 때 더 발전된 기능을 제공한다.
->>>>>>> 690b975 (feat: :memo: (chapter09): add iterator & composite pattern)

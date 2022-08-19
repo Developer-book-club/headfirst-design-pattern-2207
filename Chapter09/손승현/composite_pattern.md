@@ -63,8 +63,4 @@
     - 자식이 있는 구성 요소의 행동을 정의하고 자식 구성 요소를 저장하는 역할을 맡는다.
 
 - **Leaf** (MenuItem)
-<<<<<<< HEAD
     - ```Leaf```안에 들어있는 원소의 행동을 정의한다. ```Composite```에서 지원하는 기능을 구현하면 된다.
-=======
-    - ```Leaf```안에 들어있는 원소의 행동을 정의한다. ```Composite```에서 지원하는 기능을 구현하면 된다.
->>>>>>> 690b975 (feat: :memo: (chapter09): add iterator & composite pattern)
